@@ -1,0 +1,7 @@
+C:\Users\weiricth.MEIN\Desktop\PrusaSlicerPortable-main\OrcaSlicerPortable\bin\Debug\OrcaSlicerPortable.exe.config
+C:\Users\weiricth.MEIN\Desktop\PrusaSlicerPortable-main\OrcaSlicerPortable\bin\Debug\OrcaSlicerPortable.exe
+C:\Users\weiricth.MEIN\Desktop\PrusaSlicerPortable-main\OrcaSlicerPortable\bin\Debug\OrcaSlicerPortable.pdb
+C:\Users\weiricth.MEIN\Desktop\PrusaSlicerPortable-main\OrcaSlicerPortable\obj\Debug\OrcaSlicerPortable.csproj.AssemblyReference.cache
+C:\Users\weiricth.MEIN\Desktop\PrusaSlicerPortable-main\OrcaSlicerPortable\obj\Debug\OrcaSlicerPortable.csproj.CoreCompileInputs.cache
+C:\Users\weiricth.MEIN\Desktop\PrusaSlicerPortable-main\OrcaSlicerPortable\obj\Debug\OrcaSlicerPortable.exe
+C:\Users\weiricth.MEIN\Desktop\PrusaSlicerPortable-main\OrcaSlicerPortable\obj\Debug\OrcaSlicerPortable.pdb
